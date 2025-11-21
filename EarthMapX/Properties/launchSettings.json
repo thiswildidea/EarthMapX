@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EarthMapX (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EarthMapX (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

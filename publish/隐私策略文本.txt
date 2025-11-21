@@ -1,0 +1,82 @@
+EarthMapX 隐私策略（Windows Store 版）
+
+生效日期：2025年11月20日
+
+欢迎使用 EarthMapX 应用（以下简称“本应用”）。本应用由 [开发者名称，若有] 开发并提供，致力于为您提供专业的三维地球与地图可视化服务。我们高度重视您的隐私保护，本隐私策略将详细说明本应用在数据收集、使用、存储及保护等方面的做法，帮助您了解自身权益。请您在使用本应用前仔细阅读并理解本策略，若您使用本应用，即表示您同意并接受本策略的全部内容。
+
+一、信息收集与使用
+
+本应用始终将用户隐私放在首位，秉持“最小化收集”原则，具体信息收集与使用情况如下：
+
+1. 不收集的信息：本应用不会收集您的任何个人身份信息，包括但不限于姓名、手机号码、电子邮箱地址、账号信息、设备唯一标识符（如 IMEI、SN 等）、使用记录（如浏览历史、操作日志）等非必要信息，不会对您的个人隐私进行任何形式的追踪。
+
+2. 定位信息的获取与使用：为实现地图定位、地理信息匹配等核心功能（如将您的位置与地图图层精准结合，辅助您进行地理探索与分析），本应用会在运行过程中按需临时获取您的设备定位信息。定位信息的获取完全遵循“用户授权、即时使用、本地处理”原则：
+        获取时机：仅在您主动使用需要定位的功能（如“我的位置定位”“周边地理信息查询”等）时，本应用才会向您发起定位权限申请，经您明确授权同意后才会获取定位信息；若您拒绝授权，本应用将无法提供依赖定位的功能，但不影响其他无需定位的功能（如三维地球浏览、地形展示、离线图层查看等）的正常使用。
+
+3. 使用方式：获取的定位信息仅用于实时支撑当前所需功能的本地运行，例如在地图上标记您的位置、计算您与目标地点的空间关系等，不会用于任何其他用途。
+
+4. 数据流转：您的定位信息仅在您的本地设备中处理和使用，不会上传至任何远程服务器，也不会与任何第三方共享。
+
+5. 其他数据：本应用在运行过程中可能会产生少量临时运行数据（如图层加载缓存、临时计算结果等），此类数据仅用于保障应用运行流畅性，会在应用退出或设备重启后自动清理，不包含任何个人信息，也不会被持久化存储或外泄。
+
+二、数据存储与保护
+
+1. 存储范围与期限：如前文所述，本应用不收集和存储您的个人信息；定位信息仅在功能使用期间临时存储于设备内存中，功能结束后立即释放；临时运行数据仅短期存储于设备本地缓存，且会定期或在应用退出时自动删除，无长期存储的用户相关数据。
+
+2. 安全保障措施：针对本地临时存储的数据，本应用已采取必要的安全防护措施，防止数据被未授权访问、篡改或泄露。同时，由于数据未上传至服务器，可有效避免服务器端数据泄露风险。
+
+三、用户权利
+
+您对本应用的定位权限及相关隐私拥有完全的控制权，可通过以下方式行使您的权利：
+
+1. 权限管理：您可随时通过 Windows 系统设置（路径：设置 > 隐私与安全性 > 位置）或本应用内的权限设置入口，开启或关闭定位权限，控制本应用是否能获取您的定位信息。
+
+2. 隐私咨询：若您对本隐私策略或本应用的隐私处理行为有任何疑问、意见或建议，可通过 [开发者联系方式，如邮箱、客服电话等] 与我们联系，我们将在合理时间内为您提供反馈。
+
+四、第三方服务说明
+
+本应用为实现核心功能，可能会集成少量经严格筛选的第三方地图数据服务（如基础地图图层、卫星影像数据等），但此类服务仅用于提供地图数据支撑，本应用不会向第三方服务提供商传输任何您的个人信息或定位信息。第三方服务的隐私政策请参考其官方说明，本应用不承担第三方服务引发的隐私相关责任。
+
+五、隐私策略的更新
+
+本隐私策略可能会根据应用功能更新、法律法规变化或隐私保护需求进行调整。若发生更新，我们将在应用内通过弹窗、公告等显著方式通知您，并更新本策略的“生效日期”。更新后的隐私策略自通知之日起生效，若您继续使用本应用，即表示您接受更新后的隐私策略；若您不同意，建议您停止使用本应用。
+
+六、免责声明
+
+本应用已严格按照上述条款执行隐私保护措施，但鉴于技术局限性及网络环境复杂性，我们无法完全保证不存在不可预见的隐私风险。若因不可抗力、黑客攻击、系统故障或您自身操作不当等非我们主观过错导致的少量数据安全问题，我们将在法律允许的范围内尽力协助解决，但不承担相应的赔偿责任。
+
+联系方式：thiswildidea 客服邮箱：gaqo@outlook.com；客服电话：13052008725
+
+2025年11月20日
+
+
+
+
+
+
+Privacy Policy for EarthMapX (Windows Store Version)
+Effective Date: November 20, 2025
+Welcome to the EarthMapX application (hereinafter referred to as "this Application"). This Application is developed and provided by [Developer Name, if applicable], dedicated to providing you with professional 3D Earth and map visualization services. We attach great importance to the protection of your privacy. This Privacy Policy will detail how this Application collects, uses, stores, and protects data, helping you understand your rights and interests. Please read and understand this Policy carefully before using this Application. By using this Application, you agree to and accept all the contents of this Policy.
+I. Information Collection and Use
+This Application always prioritizes user privacy and adheres to the "minimum collection" principle. The specific details of information collection and use are as follows:
+Information Not Collected: This Application will not collect any of your personal identification information, including but not limited to name, mobile phone number, email address, account information, unique device identifiers (such as IMEI, SN, etc.), usage records (such as browsing history, operation logs) and other non-essential information. It will not track your personal privacy in any form.
+Collection and Use of Location Information: To implement core functions such as map positioning and geographic information matching (e.g., accurately combining your location with map layers to assist you in geographic exploration and analysis), this Application will temporarily obtain your device's location information on an as-needed basis during operation. The collection of location information fully complies with the principle of "user authorization, real-time use, and local processing":
+Collection Timing: This Application will only request location permission from you when you actively use functions that require positioning (such as "locate my position" or "query surrounding geographic information"). Location information will only be collected after you explicitly grant authorization. If you refuse authorization, this Application will not be able to provide functions that rely on positioning, but it will not affect the normal use of other functions that do not require positioning (such as 3D Earth browsing, terrain display, offline layer viewing, etc.).
+Usage Method: The collected location information is only used to support the real-time local operation of the currently required functions (e.g., marking your location on the map, calculating the spatial relationship between you and the target location, etc.) and will not be used for any other purposes.
+Data Flow: Your location information is only processed and used locally on your device. It will not be uploaded to any remote server nor shared with any third parties.
+Other Data: During the operation of this Application, a small amount of temporary operation data (such as layer loading caches, temporary calculation results, etc.) may be generated. Such data is only used to ensure the smooth operation of the Application and will be automatically cleared when the Application exits or the device restarts. It does not contain any personal information and will not be stored persistently or disclosed.
+II. Data Storage and Protection
+Storage Scope and Duration: As mentioned above, this Application does not collect or store your personal information; location information is only temporarily stored in the device memory during the use of relevant functions and is immediately released after the functions end; temporary operation data is only stored in the local device cache for a short period and will be automatically deleted regularly or when the Application exits. There is no long-term stored user-related data.
+Security Protection Measures: For the temporarily stored local data, this Application has adopted necessary security protection measures to prevent unauthorized access, tampering, or leakage of the data. At the same time, since data is not uploaded to a server, the risk of server-side data leakage can be effectively avoided.
+III. User Rights
+You have full control over the location permissions of this Application and related privacy, and you can exercise your rights in the following ways:
+Permission Management: You can enable or disable location permissions at any time through Windows system settings (path: Settings > Privacy & security > Location) or the permission setting entry within this Application to control whether this Application can obtain your location information.
+Privacy Inquiries: If you have any questions, opinions, or suggestions regarding this Privacy Policy or the privacy handling practices of this Application, you can contact us via [Developer Contact Information, such as email, customer service phone, etc.], and we will provide you with feedback within a reasonable time.
+IV. Statement on Third-Party Services
+To implement core functions, this Application may integrate a small number of strictly screened third-party map data services (such as basic map layers, satellite image data, etc.). However, such services are only used to provide map data support, and this Application will not transmit any of your personal information or location information to third-party service providers. Please refer to the official statements for the privacy policies of third-party services. This Application shall not be liable for privacy-related issues caused by third-party services.
+V. Updates to the Privacy Policy
+This Privacy Policy may be adjusted in accordance with Application function updates, changes in laws and regulations, or privacy protection needs. In case of updates, we will notify you through prominent methods such as pop-ups and announcements within the Application and update the "Effective Date" of this Policy. The updated Privacy Policy shall take effect from the date of notification. By continuing to use this Application, you indicate that you accept the updated Privacy Policy; if you do not agree, we recommend that you stop using this Application.
+VI. Disclaimer
+This Application has strictly implemented the privacy protection measures as specified in the above terms. However, due to technical limitations and the complexity of the network environment, we cannot fully guarantee that there are no unforeseeable privacy risks. In case of minor data security issues caused by force majeure, hacking attacks, system malfunctions, or improper operations on your part, which are not due to our subjective fault, we will make every effort to assist in resolving the issues within the scope permitted by law, but shall not bear corresponding compensation liabilities.
+Contact Information:thiswildidea Customer Service Email: gaqo@outlook.comCustomer Service Phone: 13052008725
+November 20, 2025

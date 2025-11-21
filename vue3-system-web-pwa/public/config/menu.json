@@ -1,0 +1,162 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "menus": [],
+   "deve":[
+        {
+            "name": "/query",
+            "path": "/query",
+            "component": "Layout",
+            "redirect": "/query/menucenter",
+            "alwaysShow": true,
+            "meta": {
+                "title": "message.router.gis.query.menutitle",
+                "isHide": false,
+                "icon": "esri-icon-query",
+                "isKeepAlive": true,
+                "isLink": "",
+                "isIframe": false,
+                "isAffix": false,
+                "auth": ["gis:query:view"]
+            },
+            "children": [{
+                    "name": "/query/menucenter",
+                    "path": "/query/menucenter",
+                    "component": "/gis/query/menucenter/index",
+                    "meta": {
+                        "title": "message.router.gis.query.menucenter",
+                        "isHide": true,
+                        "icon": "elementUser",
+                        "isKeepAlive": false,
+                        "isLink": "",
+                        "isIframe": false,
+                        "isAffix": false,
+                        "auth": [
+                            "gis:query-menucenter:view"
+                        ]
+                    }
+                },
+                {
+                    "name": "/query/attribute",
+                    "path": "/query/attribute",
+                    "component": "/gis/query/attribute/index",
+                    "meta": {
+                        "title": "message.router.gis.query.attribute",
+                        "isHide": false,
+                        "icon": "elementUser",
+                        "isKeepAlive": false,
+                        "isLink": "",
+                        "isIframe": false,
+                        "isAffix": false,
+                        "auth": [
+                            "gis:query-attribute:view"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "/anaysis",
+            "path": "/anaysis",
+            "component": "Layout",
+            "redirect": "/anaysis/menucenter",
+            "alwaysShow": true,
+            "meta": {
+                "title": "message.router.gis.anaysis.menutitle",
+                "isHide": false,
+                "icon": "esri-icon-anaysis",
+                "isKeepAlive": true,
+                "isLink": "",
+                "isIframe": false,
+                "isAffix": false,
+                "auth": ["gis:anaysis:view"]
+            },
+            "children": [{
+                    "name": "/anaysis/menucenter",
+                    "path": "/anaysis/menucenter",
+                    "component": "/gis/anaysis/menucenter/index",
+                    "meta": {
+                        "title": "message.router.gis.anaysis.menucenter",
+                        "isHide": true,
+                        "icon": "elementUser",
+                        "isKeepAlive": false,
+                        "isLink": "",
+                        "isIframe": false,
+                        "isAffix": false,
+                        "auth": [
+                            "gis:query-menucenter:view"
+                        ]
+                    }
+                },
+                {
+                    "name": "/anaysis/terrain",
+                    "path": "/anaysis/terrain",
+                    "component": "/gis/anaysis/terrain/index",
+                    "meta": {
+                        "title": "message.router.gis.anaysis.terrain",
+                        "isHide": false,
+                        "icon": "elementUser",
+                        "isKeepAlive": false,
+                        "isLink": "",
+                        "isIframe": false,
+                        "isAffix": false,
+                        "auth": [
+                            "gis:anaysis-attribute:view"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "/edit",
+            "path": "/edit",
+            "component": "Layout",
+            "redirect": "/edit/menucenter",
+            "alwaysShow": true,
+            "meta": {
+                "title": "message.router.gis.edit.menutitle",
+                "isHide": false,
+                "icon": "esri-icon-edit",
+                "isKeepAlive": true,
+                "isLink": "",
+                "isIframe": false,
+                "isAffix": false,
+                "auth": ["gis:edit:view"]
+            },
+            "children": [{
+                    "name": "/edit/menucenter",
+                    "path": "/edit/menucenter",
+                    "component": "/gis/edit/menucenter/index",
+                    "meta": {
+                        "title": "message.router.gis.edit.menucenter",
+                        "isHide": true,
+                        "icon": "elementUser",
+                        "isKeepAlive": false,
+                        "isLink": "",
+                        "isIframe": false,
+                        "isAffix": false,
+                        "auth": [
+                            "gis:edit-menucenter:view"
+                        ]
+                    }
+                },
+                {
+                    "name": "/edit/feature",
+                    "path": "/edit/feature",
+                    "component": "/gis/edit/feature/index",
+                    "meta": {
+                        "title": "message.router.gis.edit.feature",
+                        "isHide": false,
+                        "icon": "elementUser",
+                        "isKeepAlive": false,
+                        "isLink": "",
+                        "isIframe": false,
+                        "isAffix": false,
+                        "auth": [
+                            "gis:edit-feature:view"
+                        ]
+                    }
+                }
+            ]
+        }]
+}

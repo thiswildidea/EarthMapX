@@ -1,0 +1,17 @@
+@import './layout.scss';
+
+/* 页面宽度小于1920px   homeMenuTitle  
+------------------------------- */
+@media screen and (max-width: $xl) {
+	.responsivMenuTitleFont{
+		font-size: 18px;
+	}
+}
+
+/* 页面宽度小于768px  homeMenuTitle
+------------------------------- */
+@media screen and (max-width: $sm) {
+	.responsivMenuTitleFont{
+		font-size: 22px;
+	}
+}

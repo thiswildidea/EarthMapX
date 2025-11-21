@@ -1,0 +1,46 @@
+EarthMapX 应用主要介绍
+EarthMapX 是一款功能强大的三维地球与地图可视化平台，融合多源地图数据、三维地形展示、专题数据可视化与空间分析等能力，为用户提供沉浸式、专业化的地理信息探索体验。
+一、丰富的地图图层资源
+平台内置多类型地图图层，覆盖基础地图、卫星影像、地形地貌、拓扑地图等场景：
+基础图层：如 BaseMap 提供多风格基础地图模板，ArcgisTile 支持 ArcGIS 瓦片地图加载，满足通用地图浏览需求；
+专题图层：Imagery（卫星影像）、Terrain（地形地貌）、Physical（自然地理）、Dark_Gray/Light_Gray（灰度风格）等，从宏观地球格局到微观地形细节均可精准呈现。
+二、三维地球与地形沉浸式可视化
+支持2D/3D 视图无缝切换，三维模式下可直观呈现地球立体形态与地形起伏：
+以三维地球模型展示全球地理格局，支持自由旋转、缩放，实现沉浸式地球探索；
+对地形进行夸张化渲染（如高山、深海的立体突出展示），清晰呈现地貌特征，为地理研究、地质分析提供直观支撑。
+三、专业数据可视化与空间分析
+可加载并可视化各类地理专题数据，同时提供专业空间分析工具：
+专题数据可视化：例如地震数据，支持按时间维度（全月、全天）展示地震点分布，通过红点直观呈现地震位置与密度；
+空间测量工具：支持面积、长度、半径等几何量算，可绘制多边形、圆形等图形并自动计算参数，满足空间分析需求。
+四、多视图对比与图层精细化管理
+多视图对比：支持双视图同步展示，可同时加载不同图层或视角，直观对比地理信息差异（如不同地形渲染风格的对比）；
+图层管理：每个图层可独立调整透明度、显示 / 隐藏状态，还可删除、排序图层，让用户按需定制地图展示效果，打造个性化地理视图。
+五、广泛的应用场景
+EarthMapX 适用于地理教育、科研分析、行业决策（如地质、环境、规划领域）等场景，为用户提供从 “宏观地球认知” 到 “微观地理分析” 的全流程地理信息可视化与探索能力，是兼具专业性与易用性的地理信息平台。
+
+
+
+
+Main Introduction to the EarthMapX Application  
+EarthMapX is a powerful 3D Earth and map visualization platform that integrates multi-source map data, 3D terrain display, thematic data visualization, and spatial analysis capabilities. It provides users with an immersive and professional geographical information exploration experience.  
+
+I. Rich Map Layer Resources  
+The platform has built-in multiple types of map layers, covering scenarios such as basic maps, satellite imagery, topography and landforms, and topological maps:  
+Basic Layers: For example, BaseMap provides multi-style basic map templates, and ArcgisTile supports the loading of ArcGIS tile maps, meeting the needs of general map browsing.  
+Thematic Layers: Including Imagery (Satellite Imagery), Terrain (Topography and Landforms), Physical (Physical Geography), and Dark_Gray/Light_Gray (Grayscale Style). These layers enable accurate presentation from macro global patterns to micro topographic details.  
+II. Immersive 3D Earth and Terrain Visualization  
+The platform supports seamless switching between 2D and 3D views. In 3D mode, it can intuitively present the three-dimensional shape of the Earth and topographic undulations:  
+1. It displays the global geographical pattern through a 3D Earth model, supporting free rotation and zooming to realize immersive Earth exploration.  
+2. It applies exaggerated rendering to terrain (e.g., three-dimensional prominent display of high mountains and deep oceans), clearly presenting geomorphic features and providing intuitive support for geographical research and geological analysis.  
+
+III. Professional Data Visualization and Spatial Analysis  
+The platform can load and visualize various types of geographical thematic data, while providing professional spatial analysis tools:  
+Thematic Data Visualization: For instance, regarding earthquake data, it supports displaying the distribution of earthquake points by time dimension (full month, full day) and intuitively presents the location and density of earthquakes through red dots.  
+Spatial Measurement Tools: It supports geometric calculations such as area, length, and radius. Users can draw graphics like polygons and circles, with automatic parameter calculation, to meet spatial analysis needs.  
+
+IV. Multi-View Comparison and Refined Layer Management  
+Multi-View Comparison: It supports synchronous display of dual views, allowing simultaneous loading of different layers or perspectives to intuitively compare differences in geographical information (e.g., comparison of different terrain rendering styles).  
+Layer Management: Each layer’s transparency and display/hide status can be adjusted independently. Layers can also be deleted and sorted, enabling users to customize map display effects according to their needs and create personalized geographical views.  
+
+V. Wide Range of Application Scenarios  
+EarthMapX is applicable to scenarios such as geographical education, scientific research analysis, and industry decision-making (e.g., fields of geology, environment, and planning). It provides users with full-process geographical information visualization and exploration capabilities, ranging from "macro Earth cognition" to "micro geographical analysis". It is a geographical information platform that combines professionalism and ease of use.
